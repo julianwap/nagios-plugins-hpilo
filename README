@@ -1,3 +1,17 @@
+Fork with the purpose to improve the frontend
+---------------------------------------------
+I've rewritten the frontend (action-url) so it has a little more modern UI now.
+It's now also able to deal with multiple hosts and to check user input parameters
+and it outputs valid html finally :)
+
+Only the files in action-url/ is changed, C-code is unchanged
+For a screenshot see action-url/hpilo-example.png
+
+
+
+
+
+
 Nagios plug-in for iLO Agentless Management
 ------------------------------------------
 Nagios plug-in for iLO Agentless Management aims to automatically manage HPE 
